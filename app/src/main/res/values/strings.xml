@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">WeatherApp</string>
+    <string name="hint_text">Enter city name or zip code</string>
+    <string name="get_weather">Get Weather</string>
 </resources>
